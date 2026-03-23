@@ -58,9 +58,9 @@ GET /api/bookings/ref/:ref
 ## 🎥 Demo
 
 Watch all project videos here:
-👉 Open Video Folder
+👉 https://drive.google.com/drive/folders/17Fpogmv3gZ60177Lyf9tgFGH4ozHiP9h?usp=drive_link
 
 📄 Documentation
 
 Access the full project here:
-👉 Open Project Folder
+👉 https://drive.google.com/drive/folders/1cWewSUSLkGjQsV84UDcDRv8CYFhrBQcP?usp=sharing
