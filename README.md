@@ -56,9 +56,11 @@ GET /api/bookings/ref/:ref
 ---
 
 ## 🎥 Demo
-👉 https://drive.google.com/drive/folders/17Fpogmv3gZ60177Lyf9tgFGH4ozHiP9h?usp=drive_link  
+Watch all project videos here:
+👉 Open Video Folder 
 
 ---
 
 ## 📄 Documentation
-👉 https://github.com/your-username/cricket-tickets/tree/main/docs  
+ Access the full project here:
+👉 Open Project Folder
