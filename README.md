@@ -56,11 +56,11 @@ GET /api/bookings/ref/:ref
 ---
 
 ## 🎥 Demo
+
 Watch all project videos here:
-👉 Open Video Folder 
+👉 Open Video Folder
 
----
+📄 Documentation
 
-## 📄 Documentation
- Access the full project here:
+Access the full project here:
 👉 Open Project Folder
